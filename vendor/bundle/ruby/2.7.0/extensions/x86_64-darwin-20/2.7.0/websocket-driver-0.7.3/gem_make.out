@@ -1,0 +1,15 @@
+current directory: /Users/yamaguchi/Desktop/rails/hello_world_sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/yamaguchi/.rbenv/versions/2.7.2/bin/ruby -I /Users/yamaguchi/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210118-97177-8bfu9r.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yamaguchi/Desktop/rails/hello_world_sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/yamaguchi/Desktop/rails/hello_world_sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/yamaguchi/Desktop/rails/hello_world_sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210118-97177-1ythuw0
